@@ -8,3 +8,5 @@ This was used as a live demo a React MFE tech talk. It has a Container and a bas
 
 `yarn dev` on the parent folder to run them both or alternatively, `yarn start` in either of the project folders.
 
+Of course, you'll need to `yarn install` everything. 
+
